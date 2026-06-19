@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Trustee",
+    "slug": "trustee-mobile",
+    "scheme": "trustee",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "sdkVersion": "54.0.0",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
